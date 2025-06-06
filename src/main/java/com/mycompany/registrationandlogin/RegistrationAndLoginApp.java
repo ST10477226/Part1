@@ -138,9 +138,9 @@ public class RegistrationAndLoginApp {
         }
     }
 
-    // ----------------------------
+   
     // Login Form
-    // ----------------------------
+  
     public static class LoginForm extends JFrame {
         public JTextField usernameField;
         public JPasswordField passwordField;
